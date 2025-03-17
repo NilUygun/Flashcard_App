@@ -82,7 +82,7 @@ Go to the project directory and package the project:
 mvn clean package
 ```
 
-### 3. Run the Game
+### 3. Run the Application
 Run the application with:
 ```sh
 java -jar target/Flashcards-1.0.jar
