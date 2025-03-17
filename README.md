@@ -8,7 +8,7 @@
 <h1 align="center">Flashcard App</h1>
 
   <p align="center">
-    Flashcard App is a flahcard-based study tool.
+    Flashcard App is a flashcard-based study tool.
     <br />
     <br />
     <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
@@ -83,7 +83,7 @@ mvn clean package
 ```
 
 ### 3. Run the Game
-Run the game with:
+Run the application with:
 ```sh
 java -jar target/Flashcards-1.0.jar
 ```
